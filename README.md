@@ -1,6 +1,6 @@
 # Tree Traversal
 
-## Learning Goals
+## Learning Goals...
 
 - Understand what tree traversal is
 - Understand breadth-first vs. depth-first traversal
